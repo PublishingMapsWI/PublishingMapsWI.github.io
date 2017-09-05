@@ -3,6 +3,7 @@ On this webpage, interactive maps of projects of Wageningen University & Researc
 
 **Ethiopia**
 [https://publishingmapswi.github.io/Ethiopia2017/](https://publishingmapswi.github.io/Ethiopia2017/)
+
 **Kenya**
 [https://publishingmapswi.github.io/Kenya2017/](https://publishingmapswi.github.io/Kenya2017/)
 
